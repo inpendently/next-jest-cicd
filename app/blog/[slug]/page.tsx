@@ -12,7 +12,8 @@ export default function Page({ params }: Params) {
   return (
     <>
       <h1>Slug: {params.slug}</h1>
-      <p>HoleTex</p>
+      <p>Xin zchao</p>
+      <p>Welcome to Ha Noi</p>
     </>
   );
 }
